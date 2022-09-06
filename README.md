@@ -1,9 +1,9 @@
 # Proyecto_Electiva_Profundización
 
 ***Integrantes***
-- Henry Viloria    ***User: barraquilla1*** https://github.com/barraquilla1 
-- George Ortiz  ***User: ***      https://github.com/
-- Victor Gomez ***User: *** https://github.com/
+- Henry Viloria -***User: barraquilla1*** - https://github.com/barraquilla1 
+- George Ortiz - ***User: Gof06*** - https://github.com/Gof06
+- Victor Gomez - ***User: victor16172023*** - https://github.com/victor16172023
 
 ***Sprint 1***
-- Avance de nuestro proyecto: ***link***
+- Avance de nuestro proyecto: [Clic aquí](https://docs.google.com/presentation/d/1_5CBQDsnzzYGPd1pLmCQRO5KYoJRB175/edit#slide=id.p1)
