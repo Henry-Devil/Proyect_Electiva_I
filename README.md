@@ -7,3 +7,6 @@
 
 ***Sprint 1***
 - Avance de nuestro proyecto: [Clic aquí](https://docs.google.com/presentation/d/1_5CBQDsnzzYGPd1pLmCQRO5KYoJRB175/edit#slide=id.p1)
+
+***Sprint 2***
+- API POSTMAN: [Click aquí](https://github.com/barraquilla1/Proyect_Electiva-API)
